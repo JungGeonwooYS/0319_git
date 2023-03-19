@@ -12,3 +12,4 @@ class dsl(object):
             print(f"{self.name} is StudyKing")
         else:
             print(f"{self.name} 이 누구임?")
+
